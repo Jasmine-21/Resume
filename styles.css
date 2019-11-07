@@ -1,0 +1,17 @@
+.bg-black
+{
+    background-color: black;
+}
+.font-div
+{
+    width: 90%;
+}
+img{
+    width: 100%;
+    height: 331px;
+}
+.blinking{
+    animation: blinkingText 1.5s infinite;
+}
+
+
